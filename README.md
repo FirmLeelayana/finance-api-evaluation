@@ -1,2 +1,3 @@
-# finance_api_evaluation
-Evaluating companies by pulling data from a finance API, calculating parameters such as the Enterprise Value and Growth Rate.
+# Automating Company Evaluation
+The aim of the project is to automate the process of extracting the key details behind a company that holds useful information as to predict how well the particular company will do in the next quarter, for example extracting the enterprise value or growth rate. These useful indicators however need to first be extracted from publically available company stock data, which we do so via a finance API. We then create functions that process the available data to output predictions as to which companies look promising. The automation and ease of use of the code is of vital importance, as these indicators are updated constantly, and thus will need to be re-evaluated on a constant basis as well.
+
